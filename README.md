@@ -28,3 +28,5 @@ https://cheese10yun.github.io/spring-jpa-best-12/
 https://gunju-ko.github.io/spring/2018/05/01/Spring-Data-JPA-Paging.html
 
 https://wonit.tistory.com/483
+  
+ 주의사항 : Pageable 은 jwt에도 있음, `import org.springframework.data.domain.Pageable` 이걸 해야함.
